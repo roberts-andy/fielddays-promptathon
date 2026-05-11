@@ -1,0 +1,25 @@
+# Office lock files
+~$*
+
+# Build artifacts
+_build_*.py
+_build_*.js
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/

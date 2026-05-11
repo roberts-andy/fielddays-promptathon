@@ -1,7 +1,7 @@
 # Prompt-a-thon Challenge: The 48-Hour Account Brief
 
 ## Scenario
-Your AE just texted you at 5pm Friday. They have a C-level meeting Monday at 9am with **Northwind Traders**, a Fortune 500 manufacturer you've never worked. The AE has logged scattered notes in MSX, there are three years of email threads, two prior won opportunities, and a recent earnings call transcript. You have ~30 minutes of Copilot/agent time before the AE flies out.
+Your AE just texted you at 5pm Friday. They have a C-level meeting Monday at 9am with **Northwind Traders**, a Fortune 500 manufacturer you've never worked. The AE has logged scattered notes in CRM, there are three years of email threads, two prior won opportunities, and a recent earnings call transcript. You have ~30 minutes of Copilot/agent time before the AE flies out.
 
 ## Your task
 Build a **prompt (or chained prompt / agent)** that produces a **one-page executive briefing** the AE can walk into the room with.
@@ -24,7 +24,7 @@ The briefing MUST include:
 - 60-second demo: "here's the prompt, here's the output, here's the one thing we'd change for v2"
 
 ## Source materials in this folder
-- `01-MSX-Export.csv` — CRM dump (account master, opportunities, activities)
+- `01-CRM-Export.csv` — CRM dump (account master, opportunities, activities)
 - `02-Account-Plan-Notes.md` — AE's working notes
 - `03-Earnings-Call-Q4-2025.md` — most recent earnings call transcript
 - `04-Exec-Bios.md` — bios for your three possible targets
