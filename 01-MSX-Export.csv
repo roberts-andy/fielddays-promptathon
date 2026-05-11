@@ -1,0 +1,22 @@
+RecordType,RecordID,Date,Field1,Field2,Field3,Field4,Notes
+Account Master,ACC-NW-0001,2026-04-30,Northwind Traders Inc.,HQ: Columbus OH,FY25 Revenue: $3.8B,Employees: 18500,Industry: Discrete Manufacturing - Industrial Components. TPID 7745321. Account tier: Strategic.
+Account Master,ACC-NW-0001,2026-04-30,Parent: Northwind Holdings,Public: NYSE NWT,Fiscal Year End: Dec,Segments: Industrial / Aftermarket / OEM Services,
+Contact,CON-001,2025-11-12,Janet Okafor,CFO,janet.okafor@northwind.example,Joined 2021. Ex-Honeywell. Owns capital allocation.
+Contact,CON-002,2025-11-12,Marcus Wei,CIO,(departed),See earnings call - left Jan 2026. Replaced by interim Priya Raman.
+Contact,CON-003,2026-02-04,Priya Raman,Interim CIO,priya.raman@northwind.example,Internal promotion from VP Data Platforms. Stanford MS CS.
+Contact,CON-004,2024-09-20,Diego Marchetti,COO,diego.marchetti@northwind.example,Operations veteran. Drove the Monterrey plant expansion.
+Contact,CON-005,2025-06-18,Sam Reeves,VP Infrastructure,sam.reeves@northwind.example,Day-to-day Azure sponsor. Friendly.
+Opportunity,OPP-2023-441,2023-08-14,M365 E5 Renewal + Expansion,Stage: Won,Amount: $2.4M ACV,Close: 2023-11-30,Renewed 14000 seats + 4000 net new. Champion: Sam Reeves.
+Opportunity,OPP-2024-118,2024-03-02,Azure Landing Zone - Monterrey Plant,Stage: Won,Amount: $890K,Close: 2024-07-15,Greenfield Azure for new Mexico facility. ExpressRoute + AKS. Reference customer.
+Opportunity,OPP-2024-302,2024-09-09,Sentinel POC - Plant OT Visibility,Stage: Lost,Amount: $1.2M,Close: 2024-12-10,Lost to Splunk. Notes: 'price plus incumbent inertia'. Worth revisiting post-ransomware.
+Opportunity,OPP-2025-077,2025-04-21,Fabric + Data Estate Modernization,Stage: Stalled,Amount: $3.5M,Close: TBD,Discovery completed. Stalled when Marcus Wei departed. Priya Raman has not re-engaged.
+Opportunity,OPP-2025-201,2025-08-30,Copilot for M365 - 5000 seat pilot,Stage: Open - Negotiation,Amount: $1.8M,Close Target: 2026-06-30,CFO wants ROI proof. Pilot ran in finance + procurement.
+Opportunity,OPP-2026-014,2026-02-11,OT Security Refresh (post-incident),Stage: Open - Qualification,Amount: $4.0M est,Close Target: 2026-Q4,Triggered by Nov 2025 ransomware event. Sentinel + Defender for IoT.
+Activity,ACT-9821,2025-11-05,QBR with Sam Reeves + team,Type: Onsite,Attendees: AE + SE + Sam + 3 directs,Discussed AI roadmap; deferred to new CIO once named.
+Activity,ACT-9904,2025-12-19,Email: ransomware aftermath check-in,Type: Email,From AE,Janet acknowledged; said board has approved 'meaningful uplift' to security spend FY26.
+Activity,ACT-10044,2026-01-22,Call: Priya Raman intro,Type: Phone,30 min,Priya wants to reset on AI strategy. Mentioned demand-forecasting as top FY26 initiative.
+Activity,ACT-10118,2026-03-14,Lunch with Diego Marchetti,Type: Offsite,AE + Diego,Diego raised concerns about nearshore plant ramp - data integration to legacy MES is biggest risk.
+Activity,ACT-10240,2026-04-29,Email from Janet Okafor,Type: Inbound Email,Re: Copilot pilot ROI,Wants hardened business case by mid-May. Tied to Monday meeting.
+Win/Loss Note,WL-2024-302,2024-12-15,Sentinel POC Loss Debrief,,,Quote from buyer: 'We didn't have an executive sponsor for SOC modernization. Splunk was already in.' Note: sponsor now exists post-incident.
+Competitor Intel,CI-2025-008,2025-10-01,AWS,Incumbent for data warehouse (Redshift),,Used since 2019. Contract up for renewal Q2 2027. Priya is skeptical of AWS AI/ML maturity vs. Azure.
+Competitor Intel,CI-2025-012,2025-10-01,Splunk,SIEM incumbent,,License up Q3 2026. Post-ransomware leadership reportedly unhappy with detection gaps.

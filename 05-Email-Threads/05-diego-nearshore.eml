@@ -1,0 +1,14 @@
+From: diego.marchetti@northwind.example
+To: taylor.brennan@microsoft.example
+Date: Wed, 11 Mar 2026 19:48:00 -0500
+Subject: nearshore site — quick question
+
+Taylor,
+
+We're closing in on Poland vs Czechia. Whichever way it goes, the integration headache is the same: we need our new plant systems talking to a 30-year-old MES in Columbus on day one of production, not day ninety.
+
+For Monterrey we leaned on your team for ExpressRoute and the landing zone. That worked. For the European site I want to know if you can bring a playbook that compresses the integration window. Not interested in greenfield experiments.
+
+Will be at Hannover Messe next month if your team is there.
+
+Diego
